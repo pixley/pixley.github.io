@@ -1,20 +1,22 @@
 ## What I'm About  
-I am a serious PC gamer, not hardcore enough to play the likes of EVE Online or Dwarf Fortress, but definitely serious about the platform and its future.  I care a lot about games as an art form and about the games industry, and that's why I develop games.  Thus far, I've found myself primarily focusing on gameplay programming.  I find it very rewarding to build an engaging mechanic from the ground up.  I find myself eagerly awaiting tech like virtual reality as a means of engrossing the player and am very glad to be developing a title using VR.
+I am a serious PC gamer, not hardcore enough to play the likes of EVE Online or Dwarf Fortress, but definitely serious about the platform and its future.  I care a lot about games as an art form and about the games industry, and that's why I develop games.  Thus far, I've found myself primarily focusing on gameplay programming.  I find it very rewarding to build an engaging mechanic from the ground up.  I find myself eagerly awaiting tech like virtual reality as a means of engrossing the player and am very glad to have developed a title using VR.
 
 ## Important Links
 
 [LinkedIn profile](http://linkedin.com/in/pixley)
 
-[Blog on the Descendent Studios website](https://descendentstudios.com/community/blog/22-pixleys-cleverly-named-blog/)
-
 ## My Projects
 
-### Descent: Underground (Jun 2015 - Present), Descendent Studios
+### Unannounced Project (May 2017 - Present), Hi-Rez Studios
+
+I currently work for Hi-Rez Studios as an Associate Software Engineer on an unannounced project.  I am unable to provide any details at present.
+
+### Descent: Underground (Jun 2015 - Apr 2017), Descendent Studios
 ![A player's Torch and a hostile AI Predator face off within the Charon facility](http://i.imgur.com/acjoKmT.png)
 
 Descent: Underground is a first person shooter where players control drones within asteroids to fight over limited resources needed by a dying Earth taken over by gigacorporations.  Battles are fought in all six degrees of freedom as drones stay alive by dodging incoming projectiles.
 
-It is my first professional project and the game I am currently working on. It is being built in Unreal Engine 4 (currently 4.12.5).  I am a gameplay programmer on the project, responsible for drawing up design for and implementing such systems as the following:
+It was my first professional project. It is being built in Unreal Engine 4.  I was a gameplay programmer on the project, responsible for drawing up design for and implementing such systems as the following:
 
 * Environmental interaction
 * Matchmaking web API communication
@@ -29,7 +31,7 @@ It is my first professional project and the game I am currently working on. It i
 
 DU's game code is interesting in that it is done almost entirely in Blueprint, allowing extremely rapid iteration, which is especially necessary for such a small team on a crowdfunded budget.
 
-In addition, I am also responsible for supporting the game as a live product, providing minor game design as part of team-wide discussions, supporting design and art integration, and community interaction as part of our open development.
+In addition, I was also responsible for supporting the game as a live product, providing minor game design as part of team-wide discussions, supporting design and art integration, and community interaction as part of our open development.
 
 Descent: Underground is available on Steam and on the [Descendent Studios website](https://descendentstudios.com).
 
