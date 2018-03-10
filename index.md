@@ -1,5 +1,5 @@
 ## What I'm About  
-I am a serious PC gamer, not hardcore enough to play the likes of EVE Online or Dwarf Fortress, but definitely serious about the platform and its future.  I care a lot about games as an art form and about the games industry, and that's why I develop games.  Thus far, I've found myself primarily focusing on gameplay programming.  I find it very rewarding to build an engaging mechanic from the ground up.  I find myself eagerly awaiting tech like virtual reality as a means of engrossing the player and am very glad to have developed a title using VR.
+I've been playing video games as my primary hobby since I was in first grade, and I was around computers longer than I can remember.  While I started out mostly playing games on consoles like the Nintendo 64 and Nintendo GameCube, I've moved over to PC gaming almost exclusively, with a small exception for various Nintendo games.  While I'm not the hardest of hardcore (never booted up Dwarf Fortress or EVE Online, for example), I am passionate about the artform and the industry.  I've been working on games professionally since the summer of 2015, and have had a wonderful career thus far.
 
 ## Important Links
 
@@ -7,11 +7,35 @@ I am a serious PC gamer, not hardcore enough to play the likes of EVE Online or 
 
 ## My Projects
 
-### Unannounced Project (May 2017 - Present), Hi-Rez Studios
+### Unannounced Project (Sept 2017 - Present), Hi-Rez Studios
 
 I currently work for Hi-Rez Studios as an Associate Software Engineer on an unannounced project.  I am unable to provide any details at present.
 
-### Descent: Underground (Jun 2015 - Apr 2017), Descendent Studios
+### Hand of the Gods: Smite Tactics (May 2017 - Sept 2017), Hi-Rez Studios - Windows, Xbox One, PlayStation 4
+![HotG key art](https://web2.hirez.com/smite-tactics//wp-content/uploads/2018/02/HotGNoLogoBlog-848x477.png)
+
+Hand of the Gods is a spin-off of the popular MOBA Smite, combining the casual fun of collectable card games with the mind-games of turn-based tactics, tied together with Smite's colorful cast of deities from around the world.  It's been described as a hybrid between Hearthstone and modern XCOM, which is not an unfair comparison, in my opinion.  Like its parent game, HotG is free-to-play.
+
+Hand of the Gods was built in Unreal Engine 4 over the course of about a year and a half.  I joined the project as a gameplay programmer, but I quickly moved over to UI work, as my previous experience with Unreal Motion Graphics was vital to the project.  As part of the effort to replace the old Coherent-based UI with a new UMG-based one, I was responsible, in part or in whole, for the following client-side features over the months I was on the project:
+
+* Friends and Clans - interfacing with Hi-Rez backend and widget programming
+* Settings menu - widget programming
+* Chat system - interfacing with Hi-Rez backend and widget programming
+* Front-end tutorial (explaining the out-of-game loop)
+* Gamepad support
+* Quest Log and Player Statistics - interfacing with Hi-Rez backend and widget programming
+* Player Ranking - interfacing with Hi-Rez backend and widget programming
+* In-game store - interfacing with Hi-Rez backend and widget programming
+* Cosmetic customization - interfacing with Hi-Rez backend and widget programming
+* Deck selection and display
+* Display and navigation of cards within the player's hand
+* Generalization of C++ supporting code for use in other Hi-Rez UE4 games (gamepad support, widget organization and focus, interpreting data from the Hi-Rez framework into Blueprintable classes and structs)
+
+I learned a lot about Unreal Engine working on HotG, especially regarding UI.  Even though I knew a lot about UMG, I learned so much more about how to manage and navigate widgets.  Descent: Underground's UI was severely hampered by having to exist solely within the confines of Blueprint, because there was so much to be gained by putting the widget management on a C++ backbone.
+
+Hand of the Gods: Smite Tactics is available on Steam, PlayStation Store, Xbox Store, and on the [Hand of the Gods website](https://www.handofthegods.com).
+
+### Descent: Underground (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac, Linux
 ![A player's Torch and a hostile AI Predator face off within the Charon facility](http://i.imgur.com/acjoKmT.png)
 
 Descent: Underground is a first person shooter where players control drones within asteroids to fight over limited resources needed by a dying Earth taken over by gigacorporations.  Battles are fought in all six degrees of freedom as drones stay alive by dodging incoming projectiles.
@@ -29,27 +53,27 @@ It was my first professional project. It is being built in Unreal Engine 4.  I w
 * Player option configuration
 * Client-server communication
 
-DU's game code is interesting in that it is done almost entirely in Blueprint, allowing extremely rapid iteration, which is especially necessary for such a small team on a crowdfunded budget.
+DU's game code is interesting in that it is done almost entirely in Blueprint, allowing extremely rapid iteration, which we felt was especially necessary for such a small team on a crowdfunded budget.  Looking back, however, there were some serious limitations that could have been overcome by moving the codebase to C++ early in development.
 
 In addition, I was also responsible for supporting the game as a live product, providing minor game design as part of team-wide discussions, supporting design and art integration, and community interaction as part of our open development.
 
 Descent: Underground is available on Steam and on the [Descendent Studios website](https://descendentstudios.com).
 
-[See gameplay from a recent release here.](https://www.youtube.com/watch?v=MiGZi3fufEA)
+[See gameplay from before I left the project here.](https://www.youtube.com/watch?v=MiGZi3fufEA)
 
-### Hangtime (Jan 2015 - May 2015), Team Movement  
+### Hangtime (Jan 2015 - May 2015), Team Movement - Windows, Mac, Linux 
 Hangtime was my team's 3D Game Development Capstone project, done in Unity 4.6.  I was primarily responsible for gameplay and shader programming.  Though I did not serve as the designer on the team, the original idea for a game about swinging from a grapple device was mine.  As gameplay programmer, I developed the swinging mechanic, first experimenting with a PhysX-based solution, then transitioning to a completely script-driven one.  I could probably write multiple paragraphs on why the physics joints didn't work.  While the shader that defined the look of our game was not written by me, I ended up taking on its maintenance and developing more shaders based on it, such as the water and lava shaders, which define the sinusoidal movement of the surfaces to which they're attached.
 
 As for the game itself, Hangtime is an over-the-shoulder 3D platformer based almost entirely around the swinging mechanic.  The design philosophy we've had from the beginning is that if the player is on the ground, or motionless, for any appreciable amount of time, we've done something wrong.
 
 [See the trailer for Hangtime here.](https://www.youtube.com/watch?v=MDBuhvkByjM)
 
-### Faiurbulz and Swaurdz (Apr 2015 - May 2015), Fab101
+### Faiurbulz and Swaurdz (Apr 2015 - May 2015), Fab101 - Linux
 Faiurbulz and Swaurdz was my team's Game Technology final project, developed on a custom engine that employs Ogre3D, Bullet, SDL Audio, and CEGUI.  For the engine, my focus was on Bullet integration and construction of the Unity-like component-based system we use for objects in the game.  For the game itself, I took the lead on the gameplay, as I also served as lead designer on the project.
 
 F&S is a goofy top-down omni-directional shooter that also employs melee combat.  The player plays as a spellblade (a person who fights with magic and melee weapons) as they fend off hordes of knights and wizards, who are offended by your combination of their arts.
 
-### After (Aug - Dec 2015), Transient Games  
+### After (Aug - Dec 2015), Transient Games - Windows, Mac (Web)
 ![The player character climbs down a ladder to explore the environment.](http://i.imgur.com/B6Y5RyE.png)
 
 After was my team's 2D Game Development Capstone project, done in Unity 4.5.  I was responsible for gameplay programming, which involved tuning player character movement and creating the ladder, rope swing, and object-pushing systems.  I also contributed to the overall design of the game, which was a task shared by the whole team.
@@ -58,11 +82,15 @@ After is a sidescrolling puzzle/adventure game with an emphasis on narrative.
 
 If you'd like to play it, you can find [After on the UT Austin GAMMA site](http://www.cs.utexas.edu/~gamedev/fall-2014/Transient-Games/Release.html).  It is a web build, so the [Unity Web Player](http://unity3d.com/webplayer) is required (sorry, Linux-users!).  You can also find the [trailer on Vimeo](https://vimeo.com/113364865).
 
-### Project Spellsword (Working Title) (Jun 2014 - Present, on hiatus), self  
-Project Spellsword is a pet project of mine being built in Unreal Engine 4.  Initially developed as a testbed for learning UE4, I ended up spending a lot of time thinking about the concept of a Twin-Stick Metroidvania-style Character Action game.  The initial concept was for it to be a sidescrolling platformer where the player is able to cast magic in all directions around him/her, but that didn't end up feeling right, due to a realization that the setting wouldn't support much verticality, which is vital for sidescrollers, and that the number of enemies that can be in the line of fire at any given time would end up quite low.  That design ended up being scrapped around the time that I got a summer job, and I haven't been free enough since to give it another go.  I would love to come back to it after Project Movement concludes, though, because I love the genre mashup, the world, and using magic and melee weapons at the same time.
+## Technical Experience  
 
-## Technology I Like  
-Using it professionally, I very much like Unreal Engine 4.  To me, though I had a good time using it for my Capstone projects, Unity is much more for mobile, casual, or low-power games.  As a PC gamer, I much prefer the power of high-end engines like UE4.  Also, I simply found UE4's workflow a lot more natural.  Blueprints are a lot more flexible than I have found Prefabs to be.  Not to mention that I like C++ more than C#.  I will manage my own memory!  Also, Epic's business model this time around is something I find wonderful from an accessibility standpoint.  That is not to say, however, that I dislike Unity.  What it does well it does very well, and it does lend itself to portability.  I just don't really fall into the market where most Unity games lie, Guns of Icarus Online and Shroud of the Avatar being notable exceptions.
+### Unreal Engine 4
+
+UE4 is what I've worked within for my entire career up to this point.  It's my favorite engine I've worked with thus far.  Both Blueprint and Unreal's spin on C++ are very familiar to me, having done gameplay and UI programming in both.  UE4 provides very powerful tools that make all sorts of games possible.  I've worked on a 6DoF shooter and a card game in UE4, and it works excellently in both cases.  I can understand why so many games are hopping on the UE4 wagon, from fighting games like SoulCalibur 6 to RPGs like the Final Fantasy VII remake to massive-scale shooters like Fortnite and PlayerUnknown's Battlegrounds.
+
+### Unity 4
+
+Most of my student projects were in Unity, but I haven't used it since.  That doesn't mean I don't have good things to say about it.  I think it has UE4 beat in terms of pure 2D games, given Unreal's languishing Paper2D plugin.  It worked great for me in college, and there are plenty of great games that make incredible use of it, such as Guns of Icarus Online and Superhot.
 
 ## My Favorite Games  
 I hold the belief that, if one wants to create games, he/she must understand what makes for good games.
