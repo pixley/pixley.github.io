@@ -9,7 +9,20 @@ I've been playing video games as my primary hobby since I was in first grade, an
 
 ### Unannounced Project (Sept 2017 - Present), Hi-Rez Studios
 
-I currently work for Hi-Rez Studios as an Associate Software Engineer on an unannounced project.  I am unable to provide any details at present.
+I currently work for Hi-Rez Studios as a Software Engineer on an unannounced project.  I am unable to provide any details at present.
+
+### Realm Royale (Jun 2018 - Aug 2018), Hi-Rez Studios
+
+![Realm Royale Logo](https://web2.hirez.com/realm-royale/assets/realm-royale-logo.png)
+
+Realm Royale is a fantasy third-person battle royale, loosely based on Paladins.  Starting life as a game mode within Paladins, Realm Royale runs on Unreal Engine 3.  My team was briefly brought on to assist the Realm Royale team as the game exploded in popularity.
+
+During the handful of weeks I worked on the project, my major responsibilities were adding new gameplay systems and improving console gameplay feel.  As part of this effort, I built or helped to build:
+
+* An entirely new class, complete with new abilities, a passive, and a weapon.
+* A 50 vs 50 royale-style game mode.
+* A completely reworked aim assist system from that inherited from Paladins' codebase.
+* Fixes for various console certification failures around network connectivity loss.
 
 ### Hand of the Gods: Smite Tactics (May 2017 - Sept 2017), Hi-Rez Studios - Windows, Xbox One, PlayStation 4
 ![HotG key art](https://web2.hirez.com/smite-tactics//wp-content/uploads/2018/02/HotGNoLogoBlog-848x477.png)
