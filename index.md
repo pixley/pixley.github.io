@@ -20,9 +20,12 @@ Realm Royale is a fantasy third-person battle royale, loosely based on Paladins.
 During the handful of weeks I worked on the project, my major responsibilities were adding new gameplay systems and improving console gameplay feel.  As part of this effort, I built or helped to build:
 
 * An entirely new class, complete with new abilities, a passive, and a weapon.
-* A 50 vs 50 royale-style game mode.
 * A completely reworked aim assist system from that inherited from Paladins' codebase.
 * Fixes for various console certification failures around network connectivity loss.
+
+Having to step backwards into Unreal 3 was a challenge, with its idiosyncrasies compared to Unreal 4, specifically surrounding UnrealScript and its status as a quasi-header for native code.  The research and work I did with our lead designer on aim assist really helped inform both of us on how to make it feel good while also being imperceptible.  Getting the console versions ready for certification was excellent practice for working on that moving forward with future projects, as I had moved off of the Hand of the Gods team before console cert passes for that game started.
+
+Realm Royale was released into Steam Early Access in early June 2018.  The console versions are still forthcoming as of this writing (29 Aug 2018).  You can see more about the game at the [Realm Royale website](https://www.realmroyale.com/).
 
 ### Hand of the Gods: Smite Tactics (May 2017 - Sept 2017), Hi-Rez Studios - Windows, Xbox One, PlayStation 4
 ![HotG key art](https://web2.hirez.com/smite-tactics//wp-content/uploads/2018/02/HotGNoLogoBlog-848x477.png)
