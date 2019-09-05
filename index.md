@@ -7,9 +7,13 @@ I've been playing video games as my primary hobby since I was in first grade, an
 
 ## My Projects
 
-### Unannounced Project (Sept 2017 - Present), Hi-Rez Studios
+### Rogue Company (Sept 2017 - Present), Hi-Rez Studios / First Watch Games
 
-I currently work for Hi-Rez Studios as a Software Engineer on an unannounced project.  I am unable to provide any details at present.
+![Rogue Company Box Art](https://web2.hirez.com/rogue-company/static/boxartlogo.png)
+
+I currently work as part of Hi-Rez's First Watch Games team on Rogue Company, a third-person shooter featuring elite mercenaries and their top-secret organization.  Gameplay details aren't public yet, but the game is in Unreal 4 and will be available on PC, Switch, PS4, and Xbox One.  You can see more about the game at [RoCo's website](https://www.roguecompany.com).
+
+Also, here's the [reveal trailer](https://www.youtube.com/watch?v=ybR34uYuLr0).
 
 ### Realm Royale (Jun 2018 - Aug 2018), Hi-Rez Studios
 
