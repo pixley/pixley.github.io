@@ -1,6 +1,6 @@
 # Portfolio
 
-## My Projects
+## Professional Projects
 
 ### Rogue Company (Sept 2017 - Present), First Watch Games / Hi-Rez Studios
 
