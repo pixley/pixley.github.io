@@ -1,4 +1,4 @@
-#Thoughts on Games
+# Thoughts on Games
 I hold the belief that, if one wants to create games, he/she must understand what does and does not make for good games.
 
 It should be obvious by the games that are on this list, but I tend to prefer single-player games over multiplayer ones.  That isn't to say that I don't like playing with others - every game I've worked on to this point professionally has been predominantly multiplayer - but it really does it for me when I get engrossed in a game's world and characters.
