@@ -1,8 +1,19 @@
 # Portfolio
 
+* [Professional Projects](#professional-projects)
+  * [Rogue Company](#rogue-company)
+  * [Realm Royale](#realm-royale)
+  * [Hand of the Gods](#hand-of-the-gods-smite-tactics)
+  * [Descent](#descent)
+* [Student Projects](#student-projects)
+* [Technical Experience](technical-experience)
+  * [Unreal Engine 4](#unreal-engine-4)
+  * [Unity 4](#unity-4)
+
 ## Professional Projects
 
-### Rogue Company (Sept 2017 - Present), First Watch Games / Hi-Rez Studios
+### Rogue Company
+#### (Sept 2017 - Present), First Watch Games / Hi-Rez Studios
 
 ![Rogue Company Box Art](/images/RoCoBoxArt.png)
 
@@ -10,7 +21,8 @@ I currently work as part of Hi-Rez's First Watch Games team on Rogue Company, a 
 
 Also, here's the [reveal trailer](https://www.youtube.com/watch?v=ybR34uYuLr0).
 
-### Realm Royale (Jun 2018 - Aug 2018), Hi-Rez Studios
+### Realm Royale
+#### (Jun 2018 - Aug 2018), Hi-Rez Studios
 
 ![Realm Royale Logo](/images/RealmLogo.png)
 
@@ -26,7 +38,8 @@ Having to step backwards into Unreal 3 was a challenge, with its idiosyncrasies 
 
 Realm Royale was released into Steam Early Access in early June 2018 and has since launched on Xbox One, PlayStation 4. and Nintendo Switch.  You can see more about the game at the [Realm Royale website](https://www.realmroyale.com/).
 
-### Hand of the Gods: Smite Tactics (May 2017 - Sept 2017), Hi-Rez Studios - Windows, Xbox One, PlayStation 4
+### Hand of the Gods: Smite Tactics
+#### (May 2017 - Sept 2017), Hi-Rez Studios - Windows, Xbox One, PlayStation 4
 ![HotG key art](/images/HotGSplash.png)
 
 Hand of the Gods is a spin-off of the popular MOBA Smite, combining the casual fun of collectable card games with the mind-games of turn-based tactics, tied together with Smite's colorful cast of deities from around the world.  It's been described as a hybrid between Hearthstone and modern XCOM, which is not an unfair comparison, in my opinion.  Like its parent game, HotG is free-to-play.
@@ -50,7 +63,8 @@ I learned a lot about Unreal Engine working on HotG, especially regarding UI.  E
 
 Hand of the Gods: Smite Tactics was fully released in February 2018 and was available on Windows, Xbox One, and PlayStation 4.  It is no longer available for download and will no longer be playable on 1 January 2020.
 
-### Descent (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac, Linux
+### Descent
+#### (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac, Linux
 ![A player's Torch and a hostile AI Predator face off within the Charon facility](/images/DescentAction.jpg)
 
 Descent (formerly Descent: Underground) was a first person shooter where players control drones within asteroids to fight over limited resources needed by a dying Earth taken over by gigacorporations.  Battles are fought in all six degrees of freedom as drones stay alive by dodging incoming projectiles.

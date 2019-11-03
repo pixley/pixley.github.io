@@ -3,6 +3,24 @@ I hold the belief that, if one wants to create games, he/she must understand wha
 
 It should be obvious by the games that are on this list, but I tend to prefer single-player games over multiplayer ones.  That isn't to say that I don't like playing with others - every game I've worked on to this point professionally has been predominantly multiplayer - but it really does it for me when I get engrossed in a game's world and characters.
 
+* [My Favorite Games](#my-favorite-games)
+  * [Mass Effect 2 and 3](#mass-effect-2-and-3)
+  * [Metroid Prime](#metroid-prime)
+  * [XCOM 2](#xcom-2)
+  * [The Outer Worlds](#the-outer-worlds)
+  * [Portal 2](#portal-2)
+  * [Far Cry: Blood Dragon](#far-cry-blood-dragon)
+  * [Redout](#redout)
+  * [Breath of the Wild](#the-legend-of-zelda-breath-of-the-wild)
+  * [Beat Saber](#beat-saber)
+* [Games That Don't Quite Hit the Mark](#games-that-dont-quite-hit-the-mark)
+  * [Mass Effect 1](#mass-effect-1)
+  * [Shadow of Mordor](#middle-earth-shadow-of-mordor)
+  * [Geometry Wars 3](#geometry-wars-3-dimensions)
+* [Disappointing Games]
+  * [Mass Effect: Andromeda](#mass-effect-andromeda)
+  * [Metroid: Other M](#metroid-other-m)
+
 ## My Favorite Games
 Quick note: Unless stated otherwise, I think the soundtrack to any game on this list is good enough to have on my primary playlist.
 
