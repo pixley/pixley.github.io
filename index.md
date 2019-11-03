@@ -6,5 +6,7 @@ I've been playing video games as my primary hobby since I was in first grade, an
 
 ## Important Links
 [LinkedIn profile](https://www.linkedin.com/in/pixley)
+
 [Twitter profile](https://www.twitter.com/pixtheheretic)
+
 [Rogue Company](https://www.roguecompany.com) - Current Project
