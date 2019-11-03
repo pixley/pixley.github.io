@@ -51,7 +51,7 @@ I learned a lot about Unreal Engine working on HotG, especially regarding UI.  E
 Hand of the Gods: Smite Tactics was fully released in February 2018 and was available on Windows, Xbox One, and PlayStation 4.  It is no longer available for download and will no longer be playable on 1 January 2020.
 
 ### Descent (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac, Linux
-![A player's Torch and a hostile AI Predator face off within the Charon facility](http://i.imgur.com/acjoKmT.png)
+![A player's Torch and a hostile AI Predator face off within the Charon facility](https://i.imgur.com/acjoKmT.png)
 
 Descent (formerly Descent: Underground) was a first person shooter where players control drones within asteroids to fight over limited resources needed by a dying Earth taken over by gigacorporations.  Battles are fought in all six degrees of freedom as drones stay alive by dodging incoming projectiles.
 
@@ -91,7 +91,7 @@ Faiurbulz and Swaurdz was my team's Game Technology final project, developed on 
 F&S is a goofy top-down omni-directional shooter that also employs melee combat.  The player plays as a spellblade (a person who fights with magic and melee weapons) as they fend off hordes of knights and wizards, who are offended by your combination of their arts.
 
 ### After (Aug - Dec 2015), Transient Games - Windows, Mac (Web)
-![The player character climbs down a ladder to explore the environment.](http://i.imgur.com/B6Y5RyE.png)
+![The player character climbs down a ladder to explore the environment.](https://i.imgur.com/B6Y5RyE.png)
 
 After was my team's 2D Game Development Capstone project, done in Unity 4.5.  I was responsible for gameplay programming, which involved tuning player character movement and creating the ladder, rope swing, and object-pushing systems.  I also contributed to the overall design of the game, which was a task shared by the whole team.
 
