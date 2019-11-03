@@ -13,11 +13,13 @@ It should be obvious by the games that are on this list, but I tend to prefer si
   * [Redout](#redout)
   * [Breath of the Wild](#the-legend-of-zelda-breath-of-the-wild)
   * [Beat Saber](#beat-saber)
+
 * [Games That Don't Quite Hit the Mark](#games-that-dont-quite-hit-the-mark)
   * [Mass Effect 1](#mass-effect-1)
   * [Shadow of Mordor](#middle-earth-shadow-of-mordor)
   * [Geometry Wars 3](#geometry-wars-3-dimensions)
-* [Disappointing Games]
+  
+* [Disappointing Games](#disappointing-games)
   * [Mass Effect: Andromeda](#mass-effect-andromeda)
   * [Metroid: Other M](#metroid-other-m)
 

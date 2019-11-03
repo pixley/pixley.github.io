@@ -5,8 +5,10 @@
   * [Realm Royale](#realm-royale)
   * [Hand of the Gods](#hand-of-the-gods-smite-tactics)
   * [Descent](#descent)
+
 * [Student Projects](#student-projects)
-* [Technical Experience](technical-experience)
+
+* [Technical Experience](#technical-experience)
   * [Unreal Engine 4](#unreal-engine-4)
   * [Unity 4](#unity-4)
 
