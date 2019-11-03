@@ -4,7 +4,7 @@
 
 ### Rogue Company (Sept 2017 - Present), First Watch Games / Hi-Rez Studios
 
-![Rogue Company Box Art](https://web2.hirez.com/rogue-company/static/boxartlogo.png)
+![Rogue Company Box Art](/images/RoCoBoxArt.png)
 
 I currently work as part of Hi-Rez's First Watch Games team on Rogue Company, a third-person shooter featuring elite mercenaries and their top-secret organization.  Gameplay details aren't public yet, but the game is in Unreal 4 and will be available on PC, Switch, PlayStation 4, and Xbox One.  You can see more about the game at [RoCo's website](https://www.roguecompany.com).
 
@@ -12,7 +12,7 @@ Also, here's the [reveal trailer](https://www.youtube.com/watch?v=ybR34uYuLr0).
 
 ### Realm Royale (Jun 2018 - Aug 2018), Hi-Rez Studios
 
-![Realm Royale Logo](https://web2.hirez.com/realm-royale/assets/realm-royale-logo.png)
+![Realm Royale Logo](/images/RealmLogo.png)
 
 Realm Royale is a fantasy third-person battle royale, loosely based on Paladins.  Starting life as a game mode within Paladins, Realm Royale runs on Unreal Engine 3.  My team was briefly brought on to assist the Realm Royale team as the game exploded in popularity.
 
@@ -27,7 +27,7 @@ Having to step backwards into Unreal 3 was a challenge, with its idiosyncrasies 
 Realm Royale was released into Steam Early Access in early June 2018 and has since launched on Xbox One, PlayStation 4. and Nintendo Switch.  You can see more about the game at the [Realm Royale website](https://www.realmroyale.com/).
 
 ### Hand of the Gods: Smite Tactics (May 2017 - Sept 2017), Hi-Rez Studios - Windows, Xbox One, PlayStation 4
-![HotG key art](https://web2.hirez.com/smite-tactics//wp-content/uploads/2018/02/HotGNoLogoBlog-848x477.png)
+![HotG key art](/images/HotGSplash.png)
 
 Hand of the Gods is a spin-off of the popular MOBA Smite, combining the casual fun of collectable card games with the mind-games of turn-based tactics, tied together with Smite's colorful cast of deities from around the world.  It's been described as a hybrid between Hearthstone and modern XCOM, which is not an unfair comparison, in my opinion.  Like its parent game, HotG is free-to-play.
 
@@ -51,7 +51,7 @@ I learned a lot about Unreal Engine working on HotG, especially regarding UI.  E
 Hand of the Gods: Smite Tactics was fully released in February 2018 and was available on Windows, Xbox One, and PlayStation 4.  It is no longer available for download and will no longer be playable on 1 January 2020.
 
 ### Descent (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac, Linux
-![A player's Torch and a hostile AI Predator face off within the Charon facility](https://i.imgur.com/acjoKmT.png)
+![A player's Torch and a hostile AI Predator face off within the Charon facility](/images/DescentAction.jpg)
 
 Descent (formerly Descent: Underground) was a first person shooter where players control drones within asteroids to fight over limited resources needed by a dying Earth taken over by gigacorporations.  Battles are fought in all six degrees of freedom as drones stay alive by dodging incoming projectiles.
 
@@ -76,28 +76,8 @@ Descent was available in Early Access, but has since been delisted.  While devel
 
 [See gameplay from before I left the project here.](https://www.youtube.com/watch?v=MiGZi3fufEA)
 
-### Hangtime (Jan 2015 - May 2015), Team Movement - Windows, Mac, Linux
-![The player character swings from one of the grapple nodes](https://i.imgur.com/3Bii8gn.png)
-
-Hangtime was my team's 3D Game Development Capstone project, done in Unity 4.6.  I was primarily responsible for gameplay and shader programming.  Though I did not serve as the designer on the team, the original idea for a game about swinging from a grapple device was mine.  As gameplay programmer, I developed the swinging mechanic, first experimenting with a PhysX-based solution, then transitioning to a completely script-driven one.  I could probably write multiple paragraphs on why the physics joints didn't work.  While the shader that defined the look of our game was not written by me, I ended up taking on its maintenance and developing more shaders based on it, such as the water and lava shaders, which define the sinusoidal movement of the surfaces to which they're attached.
-
-As for the game itself, Hangtime is an over-the-shoulder 3D platformer based almost entirely around the swinging mechanic.  The design philosophy we've had from the beginning is that if the player is on the ground, or motionless, for any appreciable amount of time, we've done something wrong.
-
-[See the trailer for Hangtime here.](https://www.youtube.com/watch?v=MDBuhvkByjM)
-
-### Faiurbulz and Swaurdz (Apr 2015 - May 2015), Fab101 - Linux
-Faiurbulz and Swaurdz was my team's Game Technology final project, developed on a custom engine that employs Ogre3D, Bullet, SDL Audio, and CEGUI.  For the engine, my focus was on Bullet integration and construction of the Unity-like component-based system we use for objects in the game.  For the game itself, I took the lead on the gameplay, as I also served as lead designer on the project.
-
-F&S is a goofy top-down omni-directional shooter that also employs melee combat.  The player plays as a spellblade (a person who fights with magic and melee weapons) as they fend off hordes of knights and wizards, who are offended by your combination of their arts.
-
-### After (Aug - Dec 2015), Transient Games - Windows, Mac (Web)
-![The player character climbs down a ladder to explore the environment.](https://i.imgur.com/B6Y5RyE.png)
-
-After was my team's 2D Game Development Capstone project, done in Unity 4.5.  I was responsible for gameplay programming, which involved tuning player character movement and creating the ladder, rope swing, and object-pushing systems.  I also contributed to the overall design of the game, which was a task shared by the whole team.
-
-After is a sidescrolling puzzle/adventure game with an emphasis on narrative.
-
-If you'd like to play it, you can find [After on the UT Austin GAMMA site](http://www.cs.utexas.edu/~gamedev/fall-2014/Transient-Games/Release.html).  It is a web build, so the [Unity Web Player](http://unity3d.com/webplayer) is required (sorry, Linux-users!).  You can also find the [trailer on Vimeo](https://vimeo.com/113364865).
+### Student Projects
+I've squirrelled away my student work onto [a separate page](/studentportfolio).
 
 ## Technical Experience  
 
