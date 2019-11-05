@@ -1,3 +1,5 @@
+![Top: Rogue Company, Bottom Left: Descent, Bottom Right: Hand of the Gods](/images/Sizzle.png)
+
 # About
 I am a Gameplay Programmer living in suburban Atlanta.  I'm currently part of the First Watch Games team, working on Rogue Company.
 
