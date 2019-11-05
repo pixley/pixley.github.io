@@ -7,7 +7,7 @@ Though it's been quite a while since I was at the University of Texas at Austin,
 
 ### Hangtime
 #### (Jan 2015 - May 2015), Team Movement - Windows, Mac, Linux
-![The player character swings from one of the grapple nodes](/images/HangtimeAction.png)
+![Hangtime action shot](/images/HangtimeAction.png "The player character swings from one of the grapple nodes.")
 
 Hangtime was my team's 3D Game Development Capstone project, done in Unity 4.6.  I was primarily responsible for gameplay and shader programming.  Though I did not serve as the designer on the team, the original idea for a game about swinging from a grapple device was mine.  As gameplay programmer, I developed the swinging mechanic, first experimenting with a PhysX-based solution, then transitioning to a completely script-driven one.  I could probably write multiple paragraphs on why the physics joints didn't work.  While the shader that defined the look of our game was not written by me, I ended up taking on its maintenance and developing more shaders based on it, such as the water and lava shaders, which define the sinusoidal movement of the surfaces to which they're attached.
 
@@ -23,7 +23,7 @@ F&S is a goofy top-down omni-directional shooter that also employs melee combat.
 
 ### After
 #### (Aug - Dec 2015), Transient Games - Windows, Mac (Web)
-![The player character climbs down a ladder to explore the environment.](/images/AfterAction.png)
+![After gameplay shot](/images/AfterAction.png "The player character climbs down a ladder to explore the environment.")
 
 After was my team's 2D Game Development Capstone project, done in Unity 4.5.  I was responsible for gameplay programming, which involved tuning player character movement and creating the ladder, rope swing, and object-pushing systems.  I also contributed to the overall design of the game, which was a task shared by the whole team.
 

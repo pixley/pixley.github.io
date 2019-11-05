@@ -17,7 +17,7 @@
 ### Rogue Company
 #### (Sept 2017 - Present), First Watch Games / Hi-Rez Studios
 
-![Rogue Company Box Art](/images/RoCoBoxArt.png)
+![Rogue Company Box Art](/images/RoCoBoxArt.png "Rogue Company Box Art")
 
 I currently work as part of Hi-Rez's First Watch Games team on Rogue Company, a third-person shooter featuring elite mercenaries and their top-secret organization.  Gameplay details aren't public yet, but the game is in Unreal 4 and will be available on PC, Switch, PlayStation 4, and Xbox One.  You can see more about the game at [RoCo's website](https://www.roguecompany.com).
 
@@ -26,7 +26,7 @@ Also, here's the [reveal trailer](https://www.youtube.com/watch?v=ybR34uYuLr0).
 ### Realm Royale
 #### (Jun 2018 - Aug 2018), Hi-Rez Studios
 
-![Realm Royale Logo](/images/RealmLogo.png)
+![Realm Royale Logo](/images/RealmLogo.png "Realm Royale Logo")
 
 Realm Royale is a fantasy third-person battle royale, loosely based on Paladins.  Starting life as a game mode within Paladins, Realm Royale runs on Unreal Engine 3.  My team was briefly brought on to assist the Realm Royale team as the game exploded in popularity.
 
@@ -42,7 +42,7 @@ Realm Royale was released into Steam Early Access in early June 2018 and has sin
 
 ### Hand of the Gods: Smite Tactics
 #### (May 2017 - Sept 2017), Hi-Rez Studios - Windows, Xbox One, PlayStation 4
-![HotG key art](/images/HotGSplash.png)
+![HotG key art](/images/HotGSplash.png "Hand of the Gods Key Art")
 
 Hand of the Gods is a spin-off of the popular MOBA Smite, combining the casual fun of collectable card games with the mind-games of turn-based tactics, tied together with Smite's colorful cast of deities from around the world.  It's been described as a hybrid between Hearthstone and modern XCOM, which is not an unfair comparison, in my opinion.  Like its parent game, HotG is free-to-play.
 
@@ -67,7 +67,7 @@ Hand of the Gods: Smite Tactics was fully released in February 2018 and was avai
 
 ### Descent
 #### (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac, Linux
-![A player's Torch and a hostile AI Predator face off within the Charon facility](/images/DescentAction.jpg)
+![Descent key art](/images/DescentAction.jpg "Deep within Charon, a Torch and Predator face off.")
 
 Descent (formerly Descent: Underground) was a first person shooter where players control drones within asteroids to fight over limited resources needed by a dying Earth taken over by gigacorporations.  Battles are fought in all six degrees of freedom as drones stay alive by dodging incoming projectiles.
 
