@@ -36,10 +36,11 @@ I was one of the first people pulled off of Hand of the Gods to start the Rogue 
 * Procedural run cycle speed and orientation warping
 * On-screen markers for world locations
 * Contextual ping, a la Apex Legends
+* Runtime physics asset merging
 
 Rogue Company was launched into pay-in beta on 21 July 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  You can see more about the game at [RoCo's website](https://www.roguecompany.com).
 
-Also, here's the [reveal trailer](https://www.youtube.com/watch?v=ybR34uYuLr0).
+See gameplay from RoCo's first public beta release, CB 0.47, [on IGN](https://www.ign.com/videos/15-minutes-of-rogue-company-alpha-gameplay).  The video says "Alpha Footage", but it was from the release that went on to be the first beta.
 
 ### Realm Royale
 #### (Jun 2018 - Aug 2018), Hi-Rez Studios - Windows, Xbox One, PlayStation 4, Nintendo Switch
