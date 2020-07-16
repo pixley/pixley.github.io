@@ -15,28 +15,38 @@
 ## Professional Projects
 
 ### Rogue Company
-#### (Sept 2017 - Present), First Watch Games / Hi-Rez Studios
+#### (Sept 2017 - Present), First Watch Games / Hi-Rez Studios - Windows, Xbox One, PlayStation 4, Nintendo Switch
 
-![Rogue Company Box Art](/images/RoCoBoxArt.png "Rogue Company Box Art")
+![Rogue Company Box Art](/images/NewRoCoLogo.png "Rogue Company Logo")
 
-I currently work as part of Hi-Rez's First Watch Games team on Rogue Company, a third-person shooter featuring elite mercenaries and their top-secret organization.  Gameplay details aren't public yet, but the game is in Unreal 4 and will be available on PC, Switch, PlayStation 4, and Xbox One.  You can see more about the game at [RoCo's website](https://www.roguecompany.com).
+Rogue Company is a near-future third-person tactical-action shooter, featuring an organization of globetrotting mercenaries who use their public image to bolster their reputation.  Gameplay wise, RoCo is if you took a game that's somewhere between CS:GO and Rainbow Six Seige, but then made it third-person and significantly faster.  Like all modern Hi-Rez titles, RoCo is free-to-play.
+
+I was one of the first people pulled off of Hand of the Gods to start the Rogue Company project, back in fall 2017.  Having been with the project since the very beginning, I've had a hand in a significant portion of the game's development.  As of writing, RoCo has just launched into beta.  In the almost three years I've been on the project, I've contributed to the following major systems:
+
+* UI groundwork by way of bringing over (and generalizing) much of the architecture we built for Hand of the Gods, including gamepad navigation, widget focus stack, and interfacing with the Hi-Rez proprietary backend
+* Vaulting/mantling system
+* Gyroscopic aiming
+* Aim assist
+* Camera management, including maintaining the focal point through camera transitions
+* Shoulder swap and procedural pose mirroring
+* Lag compensation for both hitscan and projectiles
+* Client-side prediction for abilities, movement modes, and other responsiveness-sensitive player actions
+* Match phase and timer management
+* Networked destructibles (like glass)
+* Procedural run cycle speed and orientation warping
+* On-screen markers for world locations
+* Contextual ping, a la Apex Legends
+
+Rogue Company was launched into pay-in beta on 21 July 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  You can see more about the game at [RoCo's website](https://www.roguecompany.com).
 
 Also, here's the [reveal trailer](https://www.youtube.com/watch?v=ybR34uYuLr0).
 
 ### Realm Royale
-#### (Jun 2018 - Aug 2018), Hi-Rez Studios
+#### (Jun 2018 - Aug 2018), Hi-Rez Studios - Windows, Xbox One, PlayStation 4, Nintendo Switch
 
-![Realm Royale Logo](/images/RealmLogo.png "Realm Royale Logo")
+Realm Royale is a fantasy third-person battle royale, loosely based on Paladins.  Starting life as a game mode within Paladins, Realm Royale runs on Unreal Engine 3.  My team was briefly brought on to assist the Realm Royale team when the game exploded in popularity after it went into open beta in summer 2018.
 
-Realm Royale is a fantasy third-person battle royale, loosely based on Paladins.  Starting life as a game mode within Paladins, Realm Royale runs on Unreal Engine 3.  My team was briefly brought on to assist the Realm Royale team as the game exploded in popularity.
-
-During the handful of weeks I worked on the project, my major responsibilities were adding new gameplay systems and improving console gameplay feel.  As part of this effort, I built or helped to build:
-
-* An entirely new class, complete with new abilities, a passive, and a weapon.
-* A completely reworked aim assist system from that inherited from Paladins' codebase.
-* Fixes for various console certification failures around network connectivity loss.
-
-Having to step backwards into Unreal 3 was a challenge, with its idiosyncrasies compared to Unreal 4, specifically surrounding UnrealScript and its status as a quasi-header for native code.  The research and work I did with our lead designer on aim assist really helped inform both of us on how to make it feel good while also being imperceptible.  Getting the console versions ready for certification was excellent practice for working on that moving forward with future projects, as I had moved off of the Hand of the Gods team before console cert passes for that game started.
+During the six weeks I worked on the project, my major responsibilities were adding a new class, improving console gameplay feel, and minor certification work.
 
 Realm Royale was released into Steam Early Access in early June 2018 and has since launched on Xbox One, PlayStation 4. and Nintendo Switch.  You can see more about the game at the [Realm Royale website](https://www.realmroyale.com/).
 
@@ -48,22 +58,18 @@ Hand of the Gods is a spin-off of the popular MOBA Smite, combining the casual f
 
 Hand of the Gods was built in Unreal Engine 4 over the course of about a year and a half.  I joined the project as a gameplay programmer, but I quickly moved over to UI work, as my previous experience with Unreal Motion Graphics was vital to the project.  As part of the effort to replace the old Coherent-based UI with a new UMG-based one, I was responsible, in part or in whole, for the following client-side features over the months I was on the project:
 
-* Friends and Clans - interfacing with Hi-Rez backend and widget programming
-* Settings menu - widget programming
-* Chat system - interfacing with Hi-Rez backend and widget programming
-* Front-end tutorial (explaining the out-of-game loop)
+* Settings
+* Front-end tutorial
 * Gamepad support
-* Quest Log and Player Statistics - interfacing with Hi-Rez backend and widget programming
-* Player Ranking - interfacing with Hi-Rez backend and widget programming
-* In-game store - interfacing with Hi-Rez backend and widget programming
-* Cosmetic customization - interfacing with Hi-Rez backend and widget programming
-* Deck selection and display
+* Player progression
+* Social features
+* In-game store
+* Customization
 * Display and navigation of cards within the player's hand
-* Generalization of C++ supporting code for use in other Hi-Rez UE4 games (gamepad support, widget organization and focus, interpreting data from the Hi-Rez framework into Blueprintable classes and structs)
 
 I learned a lot about Unreal Engine working on HotG, especially regarding UI.  Even though I knew a lot about UMG, I learned so much more about how to manage and navigate widgets.  Descent: Underground's UI was severely hampered by having to exist solely within the confines of Blueprint, because there was so much to be gained by putting the widget management on a C++ backbone.
 
-Hand of the Gods: Smite Tactics was fully released in February 2018 and was available on Windows, Xbox One, and PlayStation 4.  It is no longer available for download and will no longer be playable on 1 January 2020.
+Hand of the Gods: Smite Tactics was fully released in February 2018 and was available on Windows, Xbox One, and PlayStation 4.  It is no longer available for download, and its servers were shut down in January 2020.
 
 ### Descent
 #### (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac, Linux
@@ -88,7 +94,7 @@ Descent's game code was interesting in that it was done almost entirely in Bluep
 
 In addition, I was also responsible for supporting the game as a live product, providing minor game design as part of team-wide discussions, supporting design and art integration, and community interaction as part of our open development.
 
-Descent was available in Early Access, but has since been delisted.  While development continued after I started working at Hi-Rez, it doesn't seem likely the game will ever see the light of day.
+Descent was available in Early Access, but has since been delisted.  While development continued after I started working at Hi-Rez, it has since fallen into a legal battle, so it doesn't seem likely the game will ever see the light of day.  Descent's online servers and its website shut down some time in 2019.
 
 [See gameplay from before I left the project here.](https://www.youtube.com/watch?v=MiGZi3fufEA)
 
