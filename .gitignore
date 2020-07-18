@@ -1,4 +1,4 @@
 # Unready blog posts #
 ######################
-./blog/backburner/*
-./blog/drafts/*
+blog/backburner/*
+blog/drafts/*
