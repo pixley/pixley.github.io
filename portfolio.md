@@ -19,7 +19,7 @@
 
 ![Rogue Company Box Art](/images/NewRoCoLogo.png "Rogue Company Logo")
 
-Rogue Company is a near-future third-person tactical-action shooter, featuring an organization of globetrotting mercenaries who use their public image to bolster their reputation.  Gameplay wise, RoCo is if you took a game that's somewhere between CS:GO and Rainbow Six Seige, but then made it third-person and significantly faster.  Like all modern Hi-Rez titles, RoCo is free-to-play.
+Rogue Company is a near-future third-person tactical-action shooter, featuring an organization of globetrotting mercenaries who use their public image to bolster their reputation.  Gameplay wise, RoCo is if you took a game that's somewhere between CS:GO and Rainbow Six Seige, but then made it third-person and significantly faster.  Like all modern Hi-Rez titles, RoCo will be free-to-play.
 
 I was one of the first people pulled off of Hand of the Gods to start the Rogue Company project, back in fall 2017.  Having been with the project since the very beginning, I've had a hand in a significant portion of the game's development.  As of writing, RoCo has just launched into beta.  In the almost three years I've been on the project, I've contributed to the following major systems:
 
@@ -38,7 +38,7 @@ I was one of the first people pulled off of Hand of the Gods to start the Rogue 
 * Contextual ping, a la Apex Legends
 * Runtime physics asset merging
 
-Rogue Company was launched into pay-in beta on 21 July 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  You can see more about the game at [RoCo's website](https://www.roguecompany.com).
+Rogue Company was launched into pay-in beta on 20 July 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  You can see more about the game at [RoCo's website](https://www.roguecompany.com).
 
 See gameplay from RoCo's first public beta release, [CB 0.47](https://www.youtube.com/watch?v=ZaapvrT2ni4).  The video says "Alpha Footage", but it was from the release that went on to be the first beta.
 
