@@ -7,7 +7,6 @@ It should be obvious by the games that are on this list, but I tend to prefer si
   * [Mass Effect 2 and 3](#mass-effect-2-and-3)
   * [Metroid Prime](#metroid-prime)
   * [XCOM 2](#xcom-2)
-  * [Doom Eternal](#doom-eternal)
   * [The Outer Worlds](#the-outer-worlds)
   * [Portal 2](#portal-2)
   * [Far Cry: Blood Dragon](#far-cry-blood-dragon)
@@ -35,11 +34,6 @@ The exclusion of *ME1* in this heading is not to say it's a bad game, because it
 
 ### XCOM 2  
 While I haven't really gotten into tactics games, Firaxis's take on *XCOM* has gotten hundreds of hours out of me.  I love *Enemy Unknown* and *Enemy Within*, and *XCOM 2* takes what they did and makes them even better.  The emergent character stories are made even better when the player is able to pre-populate the soldier pool.  Gameplay is given so much more variety when maps are procedurally generated instead of being the same 30-odd maps.  Stealth adds another layer to the tactics EU/W did so well.  A full-featured mod kit gives the game limitless potential, which is a welcome addition, given how much effort went into creating mods for *EU/W*.  *XCOM 2's* expansion *War of the Chosen* also adds more to the experience, with a system that draws from *Shadow of Mordor's* Nemesis System.
-
-### Doom Eternal
-*Doom* (2016) was a bit of a sleeper hit for me.  A lot of the promotion surrounding it (and its beta) focused more on the multiplayer component, which put off a lot of people, including myself.  However, once the game came out, and TotalBiscuit (RIP) got his hands on it, I learned just how much love went into its campaign, and it became my favorite game that year.
-
-So when *Doom Eternal* was announced, I was stoked.  And that stokedness was justified, as *Eternal* surpassed *2016* in pretty much every way.  [CONTINUE DOOM ETERNAL THOUGHTS]
 
 ### The Outer Worlds
 When *The Outer Worlds* came out, I had been waiting for a game to come along to scratch a certain itch I'd been having for several years.  Let me tell you, Obsidian came and scratched the hell out of that itch.  On the surface, Outer Worlds seems like it's merely a spiritual successor to *Fallout: New Vegas*.  The game certainly does wear its Fallout heritage on its sleeve with elements like first-person shooting, in-depth skill system, silent protagonist, time-slowing combat assistance, and retro-futurist aesthetic.  However, I was thrilled to discover that they had combined the best parts of Fallout with some of my favorite elements from *Mass Effect*: being the captain of a space ship, companions travelling with the player character, loyalty missions, and more focused locales.  The game was released five and a half years after the final content update for *Mass Effect 3*, and this is the first game since then that has enraptured me in that way.  I wouldn't rate it quite as highly as *ME2*, but it's damn close.  In conclusion, Parvati Holcomb is adorable, and I got to help her find happiness.

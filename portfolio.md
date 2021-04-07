@@ -15,11 +15,6 @@
 
 ## Professional Projects
 
-### Unannounced id Project
-#### (Apr 2021 - Present), id Software
-
-I'm currently at id Software on an unannounced project.
-
 ### Rogue Company
 #### (Sept 2017 - Mar 2021), First Watch Games / Hi-Rez Studios - Windows, XB1, XSX/S, PS4, PS5, Switch
 
