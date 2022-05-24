@@ -7,11 +7,12 @@
   * [Hand of the Gods](#hand-of-the-gods)
   * [Descent](#descent)
 
+* [Personal Projects](#personal-projects)
 * [Student Projects](#student-projects)
 
-* [Technical Experience](#technical-experience)
-  * [Unreal Engine 4](#unreal-engine-4)
-  * [Unity 4](#unity-4)
+* [Technical Experience](#tech-experience)
+  * [Unreal Engine 4](#ue4)
+  * [Unity 4](#unity)
 
 ## Professional Projects
 
@@ -113,13 +114,16 @@ In addition, I was also responsible for supporting the game as a live product, p
 
 [See gameplay from before I left the project here.](https://www.youtube.com/watch?v=MiGZi3fufEA)
 
-### Student Projects
+### Personal Projects {#personal-projects}
+I've created [a separate page](/personalportfolio) for talking about my personal projects.
+
+### Student Projects {#student-projects}
 I've squirrelled away my student work onto [a separate page](/studentportfolio).
 
-## Technical Experience  
+## Technical Experience {#tech-experience}
 
-### Unreal Engine 4
+### Unreal Engine 4 {#ue4}
 For the first six years of my career, I worked almost exclusively in UE4, and I had a fantastic time operating within that environment.  Both Blueprint and Unreal's spin on C++ are very familiar to me, having done gameplay and UI programming in both.  UE4 provides very powerful tools that make all sorts of games possible.  I've worked on a 6DoF shooter, a card game, and a third-person shooter in UE4, and it works excellently in all of those cases.  I can understand why so many games are hopping on the UE4 wagon, from fighting games like *SoulCalibur 6* to RPGs like the *Final Fantasy VII* remake to massive-scale shooters like *Fortnite* and *PlayerUnknown's Battlegrounds*.
 
-### Unity 4
+### Unity 4 {#unity}
 Most of my student projects were in Unity, but I haven't used it since.  That doesn't mean I don't have good things to say about it.  I think it has UE4 beat in terms of pure 2D games, given Unreal's languishing Paper2D plugin.  It worked great for me in college, and there are plenty of great games that make incredible use of it, such as *Guns of Icarus Online* and *Superhot*.
