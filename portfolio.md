@@ -1,10 +1,10 @@
 # Portfolio
 
 * [Professional Projects](#professional-projects)
-  * [Unannounced id Project](#unannounced-id-project)
+  * [Doom: Eternal](#doom-eternal)
   * [Rogue Company](#rogue-company)
   * [Realm Royale](#realm-royale)
-  * [Hand of the Gods](#hand-of-the-gods-smite-tactics)
+  * [Hand of the Gods](#hand-of-the-gods)
   * [Descent](#descent)
 
 * [Student Projects](#student-projects)
@@ -15,7 +15,20 @@
 
 ## Professional Projects
 
-### Rogue Company
+### Doom: Eternal {#doom-eternal}
+#### (Apr 2021 - Present), id Software - Windows, Stadia, XB1, XSX/S, PS4, PS5, Switch
+
+![Doom: Eternal logo](/images/DoomEternalLog.png "Doom Eternal Logo")
+
+*Doom: Eternal* is a sci-fi old-school-revival first-person shooter, the latest in the genre-defining *Doom* franchise.  The Doom Slayer continues his fight against the legions of Hell and those who have aligned with it for power.  Expanding and refining on the gameplay of *Doom (2016)*, *Eternal* revels in its high-mobility, push-forward combat.
+
+I started at id at the start of the second year of post-launch support for *Eternal*, just after the release of its second DLC pack, *The Ancient Gods: Part Two*.  I provided bugfixes and contributed to the development of the Horde Mode that launched as part of "Patch 6.66", including spearheading visual debugging via imGui.
+
+*Doom: Eternal* launched on 19 March 2020 simultaneously on Windows, Stadia, Xbox One, and PlayStation 4.  It was later ported to Nintendo Switch on 8 December 2020 and subsequently ported to Xbox Series X/S and PlayStation 5 (with ray-traced reflections that simultaneously came to PC) on 29 June 2021.  You can see more about the game at [the *Doom: Eternal* website](https://bethesda.net/en/game/doom).
+
+See the [trailer for "Patch 6.66"](https://www.youtube.com/watch?v=69a0hZVgIU0), which debuted Horde Mode.
+
+### Rogue Company {#rogue-company}
 #### (Sept 2017 - Mar 2021), First Watch Games / Hi-Rez Studios - Windows, XB1, XSX/S, PS4, PS5, Switch
 
 ![Rogue Company Box Art](/images/NewRoCoLogo.png "Rogue Company Logo")
@@ -41,18 +54,18 @@ I was one of the first people pulled off of *Hand of the Gods* to start the *Rog
 
 *Rogue Company* was launched into open beta on 1 October 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  It was later ported to Xbox Series X/S and PlayStation 5 (25 Nov 2020 and 30 Mar 2021, respectively).  You can see more about the game at [the *Rogue Company* website](https://www.roguecompany.com).
 
-See gameplay from the first public beta release, [CB 0.47](https://www.youtube.com/watch?v=ZaapvrT2ni4).  The video says "Alpha Footage", but it was from the version that went on to be the first beta.
+See [the "Rogue Reveal" for Kestrel](https://www.youtube.com/watch?v=IfRdjNr4pzk), the last Rogue I worked on before leaving Hi-Rez.  Kestrel was released as part of the Year 1, Season 1 update.
 
-### Realm Royale
+### Realm Royale {#realm-royale}
 #### (Jun 2018 - Aug 2018), Hi-Rez Studios - Windows, XB1, PS4, Switch
 
 *Realm Royale* is a fantasy third-person battle royale, loosely based on the *Paladins* intellectual property.  Starting life as a game mode within *Paladins*, *Realm Royale* runs on Unreal Engine 3.  My team was briefly brought on to assist the *Realm Royale* team when the game exploded in popularity after it went into open beta in summer 2018.
 
-During the six weeks I worked on the project, my major responsibilities were adding a new class, improving console gameplay feel, and minor certification work.
+During the six weeks the *RoCo* team and I helped with the project, my major responsibilities were adding a new class, improving console gameplay feel, and minor certification work.
 
-*Realm Royale* was released into Steam Early Access in early June 2018 and has since launched on Xbox One, PlayStation 4. and Nintendo Switch.  You can see more about the game at [the *Realm Royale* website](https://www.realmroyale.com/).
+*Realm Royale* was released into Steam Early Access in early June 2018 and has since launched as a free-to-play title on Xbox One, PlayStation 4. and Nintendo Switch.  You can see more about the game at [the *Realm Royale* website](https://www.realmroyale.com/).
 
-### Hand of the Gods: Smite Tactics
+### Hand of the Gods: Smite Tactics {#hand-of-the-gods}
 #### (May 2017 - Sept 2017), Hi-Rez Studios - Windows, XB1, PS4
 ![HotG key art](/images/HotGSplash.png "Hand of the Gods Key Art")
 
@@ -73,7 +86,7 @@ I learned a lot about UE4 working on *HotG*, especially regarding UI.  Even thou
 
 *Hand of the Gods: Smite Tactics* was fully released in February 2018 and was available on Windows, Xbox One, and PlayStation 4.  It is no longer available for download, and its servers were shut down in January 2020.
 
-### Descent
+### Descent {#descent}
 #### (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac OS, Linux
 ![Descent key art](/images/DescentAction.jpg "Deep within Charon, a Torch and Predator face off.")
 
@@ -96,7 +109,7 @@ I learned a lot about UE4 working on *HotG*, especially regarding UI.  Even thou
 
 In addition, I was also responsible for supporting the game as a live product, providing minor game design as part of team-wide discussions, supporting design and art integration, and community interaction as part of our open development.
 
-*Descent* was available in Early Access, but has since been delisted.  While development continued after I started working at Hi-Rez, it has since fallen into a legal battle, so it doesn't seem likely the game will ever see the light of day.  *Descent's* online servers and its website shut down some time in 2019.
+*Descent* was available as a purchased title in Early Access, but has since been delisted.  While development continued after I started working at Hi-Rez, it has since fallen into a legal battle, so it doesn't seem likely the game will ever see the light of day.  *Descent's* online servers and its website shut down some time in 2019.
 
 [See gameplay from before I left the project here.](https://www.youtube.com/watch?v=MiGZi3fufEA)
 
