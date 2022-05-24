@@ -18,7 +18,7 @@
 ### Doom: Eternal {#doom-eternal}
 #### (Apr 2021 - Present), id Software - Windows, Stadia, XB1, XSX/S, PS4, PS5, Switch
 
-![Doom: Eternal logo](/images/DoomEternalLog.png "Doom Eternal Logo")
+![Doom: Eternal logo](/images/DoomEternalLogo.png "Doom Eternal Logo")
 
 *Doom: Eternal* is a sci-fi old-school-revival first-person shooter, the latest in the genre-defining *Doom* franchise.  The Doom Slayer continues his fight against the legions of Hell and those who have aligned with it for power.  Expanding and refining on the gameplay of *Doom (2016)*, *Eternal* revels in its high-mobility, push-forward combat.
 
