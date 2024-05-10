@@ -1,13 +1,22 @@
 # Personal Projects
 I have multiple public repositories on [my GitHub profile](https://github.com/pixley), but there are some that I feel are worth calling out in particular.
 
+* [PF2e Statblock for Obsidian](#pf2e-statblock)
 * [TimelineBuilder](#timeline-builder)
 * [Ultra Spicy RPG Bot](#discord-bot)
 * [Pokémon Streaming Tools](#pokemon-streams)
 
+## PF2e Statblock for Obsidian {#pf2e-statblock}
+### Dec 2023 - Present
+[PF2e Statblock for Obsidian](https://github.com/pixley/pf2e-statblock-for-obsidian) is a plugin for [Obsidian.md](https://obsidian.md) that parses and styles user-input Markdown into official-looking statblocks for items and rules elements for Pathfinder Second Edition.
+
+I developed the plugin in response to a lack of offline utilities for formatting custom PF2e content.  In addition to the final formatting, there is syntax highlighting to help content authors.
+
+PF2e Statblock for Obsidian is written in TypeScript.
+
 ## TimelineBuilder {#timeline-builder}
-### Mar 2022 - Present
-[TimelineBuilder](https://github.com/pixley/TimelineBuilder) is an ongoing project to build a desktop program that allows worldbuilders to create and visualize timelines for their settings.
+### Mar 2022 - Mar 2023, may resume later
+[TimelineBuilder](https://github.com/pixley/TimelineBuilder) is a shelved project to build a desktop program that allows worldbuilders to create and visualize timelines for their settings.
 
 The reason I started making TimelineBuilder is that my wife, who GMs a Pathfinder2e game for me and some friends, was having trouble with the lack of timeline functionality found in many publicly available worldbuilding suites, such as WorldAnvil, particularly in regard to the fact that the "timelines" are presented more as glorified lists than actual timelines.  After scouring the internet myself and finding nothing that quite achieved our vision, I resolved to rectify that gap in the market with a free, open-source, and customizeable app.
 
@@ -16,7 +25,7 @@ My vision for TimelineBuilder is for it to be a universal timeline tool, able to
 TimelineBuilder is being written primarily in C++, with scripts done in Python 3.
 
 ## Ultra Spicy RPG Bot {#discord-bot}
-### Sept 2021 - Mar 2022; may resume
+### Sept 2021 - Present
 Originally forked from [discord-audio-pipe](https://github.com/QiCuiHub/discord-audio-pipe), the [Ultra Spicy RPG Bot](https://github.com/pixley/discord-audio-pipe) is a Discord bot I made to assist in my friends' Pathfinder experience.  I originally created it in response to the shutting down of music-playing Discord bots (such as Rythm and Groovy) in early 2022.
 
 Its main feature is serving as a pipe for audio from a PC to the Discord voice channel to which the bot is connected.  This makes it a suitable method of providing background music to a Discord channel.  I primarily use it in its VBAN mode, which uses VBAN audio streaming to transmit an audio feed from my personal PC to a server on which the bot is actually running.  This allows the bot to have uptime independent of my own.
@@ -25,7 +34,7 @@ A secondary feature I grafted onto it is to handle a lot of the math inherent in
 
 Both features are largely controlled by text commands via Discord, allowing the bot to run and accept changes without someone (read: me) having to log into the server hosting it.
 
-The Ultra Spicy RPG Bot is written in Python 3 to take advantage of [Discord.py](https://discordpy.readthedocs.io/).  The name comes from our larger group of Hi-Rez friends from which we gathered our Pathfinder party: Ultra Spicy.
+The Ultra Spicy RPG Bot is written in Python 3 to take advantage of [Discord.py](https://discordpy.readthedocs.io/).  The name comes from our larger group of friends who are all former Hi-Rez employees, from which we gathered our Pathfinder party: Ultra Spicy.
 
 ## Pokémon Streaming Tools {#pokemon-streams}
 ### Sept 2014 - Mar 2015
