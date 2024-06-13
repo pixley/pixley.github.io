@@ -1,4 +1,4 @@
-![Sizzle Picture](/images/Sizzle.png "Top: Rogue Company, Bottom Left: Descent, Bottom Right: Hand of the Gods")
+![Sizzle Picture](/images/Sizzle.png "Top: Doom: The Dark Ages, Bottom Left: Descent, Bottom Right: Rogue Company")
 
 # About
 I am an American Gameplay Programmer living in Frankfurt, Germany.  I'm currently part of the id Software team.

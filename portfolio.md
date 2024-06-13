@@ -1,7 +1,8 @@
 # Portfolio
 
 * [Professional Projects](#professional-projects)
-  * [Doom: Eternal](#doom-eternal)
+  * [Doom: The Dark Ages](#doom-the-dark-ages)
+  * [Doom Eternal](#doom-eternal)
   * [Rogue Company](#rogue-company)
   * [Realm Royale](#realm-royale)
   * [Hand of the Gods](#hand-of-the-gods)
@@ -11,26 +12,38 @@
 * [Student Projects](#student-projects)
 
 * [Technical Experience](#tech-experience)
+  * [idTech](#idtech)
   * [Unreal Engine 4](#ue4)
   * [Unity 4](#unity)
 
 ## Professional Projects
 
+### Doom: The Dark Ages {#doom-the-dark-ages}
+#### (Apr 2021 - Present), id Software - Windows, XSX\|S, PS5
+
+![Doom: The Dark Ages logo](/images/dark-ages-logo.png "Doom: The Dark Ages Logo")
+
+*Doom: The Dark Ages* is an upcoming sci-fi/fantasy first-person shooter from the genre-defining *Doom* franchise.  A prequel to *Doom (2016)*, *The Dark Ages* explores the Doom Slayer's past, fighting the legions of Hell in a dark fantasy setting.
+
+As it is not yet available, I am currently unable to share details of my work on *The Dark Ages*.  The game is currently slated to launch in 2025 on Windows, Xbox Series X|S, and PlayStation 5.
+
+See the [world premiere trailer from the 2024 Xbox Games Showcase](https://www.youtube.com/watch?v=4tk8lkmYGWQ).
+
 ### Doom: Eternal {#doom-eternal}
-#### (Apr 2021 - Present), id Software - Windows, Stadia, XB1, XSX/S, PS4, PS5, Switch
+#### (Apr 2021 - Oct 2021), id Software - Windows, Stadia, XB1, XSX\|S, PS4, PS5, Switch
 
-![Doom: Eternal logo](/images/DoomEternalLogo.png "Doom Eternal Logo")
+![Doom Eternal logo](/images/DoomEternalLogo.png "Doom Eternal Logo")
 
-*Doom: Eternal* is a sci-fi old-school-revival first-person shooter, the latest in the genre-defining *Doom* franchise.  The Doom Slayer continues his fight against the legions of Hell and those who have aligned with it for power.  Expanding and refining on the gameplay of *Doom (2016)*, *Eternal* revels in its high-mobility, push-forward combat.
+*Doom Eternal* is a sci-fi first-person shooter from the genre-defining *Doom* franchise.  The Doom Slayer continues his fight against the legions of Hell and those who have aligned with it for power.  Expanding and refining on the gameplay of *Doom (2016)*, *Eternal* revels in its high-mobility, push-forward combat.
 
 I started at id at the start of the second year of post-launch support for *Eternal*, just after the release of its second DLC pack, *The Ancient Gods: Part Two*.  I provided bugfixes and contributed to the development of the Horde Mode that launched as part of "Patch 6.66", including spearheading visual debugging via imGui.
 
-*Doom: Eternal* launched on 19 March 2020 simultaneously on Windows, Stadia, Xbox One, and PlayStation 4.  It was later ported to Nintendo Switch on 8 December 2020 and subsequently ported to Xbox Series X/S and PlayStation 5 (with ray-traced reflections that simultaneously came to PC) on 29 June 2021.  You can see more about the game at [the *Doom: Eternal* website](https://bethesda.net/en/game/doom).
+*Doom Eternal* launched on 19 March 2020 simultaneously on Windows, Stadia, Xbox One, and PlayStation 4.  It was later ported to Nintendo Switch on 8 December 2020 and subsequently ported to Xbox Series X/S and PlayStation 5 (with ray-traced reflections that simultaneously came to PC) on 29 June 2021.
 
 See the [trailer for "Patch 6.66"](https://www.youtube.com/watch?v=69a0hZVgIU0), which debuted Horde Mode.
 
 ### Rogue Company {#rogue-company}
-#### (Sept 2017 - Mar 2021), First Watch Games / Hi-Rez Studios - Windows, XB1, XSX/S, PS4, PS5, Switch
+#### (Sept 2017 - Mar 2021), First Watch Games / Hi-Rez Studios - Windows, XB1, XSX\|S, PS4, PS5, Switch
 
 ![Rogue Company Box Art](/images/NewRoCoLogo.png "Rogue Company Logo")
 
@@ -121,6 +134,9 @@ I've created [a separate page](/personalportfolio) for talking about my personal
 I've squirrelled away my student work onto [a separate page](/studentportfolio).
 
 ## Technical Experience {#tech-experience}
+
+### idTech {#idtech}
+Since joining id Software, I have been working inside id's in-house engine, idTech, specifically version 7, which powered *Doom Eternal*, and newer.  Each version of idTech is tailored to the specific game which it powers.
 
 ### Unreal Engine 4 {#ue4}
 For the first six years of my career, I worked almost exclusively in UE4, and I had a fantastic time operating within that environment.  Both Blueprint and Unreal's spin on C++ are very familiar to me, having done gameplay and UI programming in both.  UE4 provides very powerful tools that make all sorts of games possible.  I've worked on a 6DoF shooter, a card game, and a third-person shooter in UE4, and it works excellently in all of those cases.  I can understand why so many games are hopping on the UE4 wagon, from fighting games like *SoulCalibur 6* to RPGs like the *Final Fantasy VII* remake to massive-scale shooters like *Fortnite* and *PlayerUnknown's Battlegrounds*.
