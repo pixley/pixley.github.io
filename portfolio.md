@@ -21,11 +21,11 @@
 ### Doom: The Dark Ages {#doom-the-dark-ages}
 #### (Apr 2021 - Present), id Software - Windows, XSX\|S, PS5
 
-![Doom: The Dark Ages logo](/images/dark-ages-logo.png "Doom: The Dark Ages Logo")
+![Doom: The Dark Ages logo](/images/dark_ages_logo.png "Doom: The Dark Ages Logo")
 
 *Doom: The Dark Ages* is an upcoming sci-fi/fantasy first-person shooter from the genre-defining *Doom* franchise.  A prequel to *Doom (2016)*, *The Dark Ages* explores the Doom Slayer's past, fighting the legions of Hell in a dark fantasy setting.
 
-As it is not yet available, I am currently unable to share details of my work on *The Dark Ages*.  The game is currently slated to launch in 2025 on Windows, Xbox Series X|S, and PlayStation 5.
+As it is not yet available, I am currently unable to share details of my work on *The Dark Ages*.  The game is currently slated to launch in 2025 on Windows, Xbox Series X\|S, and PlayStation 5.
 
 See the [world premiere trailer from the 2024 Xbox Games Showcase](https://www.youtube.com/watch?v=4tk8lkmYGWQ).
 
