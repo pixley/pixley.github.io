@@ -38,7 +38,7 @@ See the [world premiere trailer from the 2024 Xbox Games Showcase](https://www.y
 
 I started at id at the start of the second year of post-launch support for *Eternal*, just after the release of its second DLC pack, *The Ancient Gods: Part Two*.  I provided bugfixes and contributed to the development of the Horde Mode that launched as part of "Patch 6.66", including spearheading visual debugging via imGui.
 
-*Doom Eternal* launched on 19 March 2020 simultaneously on Windows, Stadia, Xbox One, and PlayStation 4.  It was later ported to Nintendo Switch on 8 December 2020 and subsequently ported to Xbox Series X/S and PlayStation 5 (with ray-traced reflections that simultaneously came to PC) on 29 June 2021.
+*Doom Eternal* launched on 19 March 2020 simultaneously on Windows, Stadia, Xbox One, and PlayStation 4.  It was later ported to Nintendo Switch on 8 December 2020 and subsequently ported to Xbox Series X\|S and PlayStation 5 (with ray-traced reflections that simultaneously came to PC) on 29 June 2021.
 
 See the [trailer for "Patch 6.66"](https://www.youtube.com/watch?v=69a0hZVgIU0), which debuted Horde Mode.
 
@@ -66,7 +66,7 @@ I was one of the first people pulled off of *Hand of the Gods* to start the *Rog
 * Contextual ping, a la *Apex Legends*
 * Runtime physics asset merging
 
-*Rogue Company* was launched into open beta on 1 October 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  It was later ported to Xbox Series X/S and PlayStation 5 (25 Nov 2020 and 30 Mar 2021, respectively).  You can see more about the game at [the *Rogue Company* website](https://www.roguecompany.com).
+*Rogue Company* was launched into open beta on 1 October 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  It was later ported to Xbox Series X|\S and PlayStation 5 (25 Nov 2020 and 30 Mar 2021, respectively).  You can see more about the game at [the *Rogue Company* website](https://www.roguecompany.com).
 
 See [the "Rogue Reveal" for Kestrel](https://www.youtube.com/watch?v=IfRdjNr4pzk), the last Rogue I worked on before leaving Hi-Rez.  Kestrel was released as part of the Year 1, Season 1 update.
 
