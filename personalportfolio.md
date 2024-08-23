@@ -1,10 +1,19 @@
 # Personal Projects
 I have multiple public repositories on [my GitHub profile](https://github.com/pixley), but there are some that I feel are worth calling out in particular.
 
+* [RPG Sounds Community Patch](#rpgs-patch)
 * [PF2e Statblock for Obsidian](#pf2e-statblock)
 * [TimelineBuilder](#timeline-builder)
 * [Ultra Spicy RPG Bot](#discord-bot)
 * [Pokémon Streaming Tools](#pokemon-streams)
+
+## RPG Sounds Community Patch {#rpgs-patch}
+### Feb 2024 - Present
+[The RPG Sounds Community Patch](https://github.com/pixley/rpgs-community-patch) is a mod for the Unity-based utility [RPG Sounds](https://store.steampowered.com/app/1480140/RPG_Sounds/), a soundboard/audio mixer for use alongside tabletop RPGs.
+
+The RPG Sounds app has not been updated since February 2022, but I still believe in the concept, despite the issues that were never addressed.  As such, I pulled it open using a .NET decompiler and fixed the problems that specifically irritated me.
+
+The RPG Sounds Community Patch is written in C# and C++.  It can be found both in the previously-linked GitHub repo and on [Nexus Mods](https://www.nexusmods.com/site/mods/1017).
 
 ## PF2e Statblock for Obsidian {#pf2e-statblock}
 ### Dec 2023 - Present
