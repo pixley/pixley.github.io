@@ -6,7 +6,7 @@
   * [Rogue Company](#rogue-company)
   * [Realm Royale](#realm-royale)
   * [Hand of the Gods](#hand-of-the-gods)
-  * [Descent](#descent)
+  * [Ships that Fight Underground](#ships-that-fight-underground)
 
 * [Personal Projects](#personal-projects)
 * [Student Projects](#student-projects)
@@ -66,7 +66,7 @@ I was one of the first people pulled off of *Hand of the Gods* to start the *Rog
 * Contextual ping, a la *Apex Legends*
 * Runtime physics asset merging
 
-*Rogue Company* was launched into open beta on 1 October 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  It was later ported to Xbox Series X\|S and PlayStation 5 (25 Nov 2020 and 30 Mar 2021, respectively).  You can see more about the game at [the *Rogue Company* website](https://www.roguecompany.com).
+*Rogue Company* was launched into open beta on 1 October 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  It was later ported to Xbox Series X\|S and PlayStation 5 (25 Nov 2020 and 30 Mar 2021, respectively).  Support for the Switch version has since been dropped.  You can see more about the game at [the *Rogue Company* website](https://www.roguecompany.com).
 
 See [the "Rogue Reveal" for Kestrel](https://www.youtube.com/watch?v=IfRdjNr4pzk), the last Rogue I worked on before leaving Hi-Rez.  Kestrel was released as part of the Year 1, Season 1 update.
 
@@ -100,13 +100,13 @@ I learned a lot about UE4 working on *HotG*, especially regarding UI.  Even thou
 
 *Hand of the Gods: Smite Tactics* was fully released in February 2018 and was available on Windows, Xbox One, and PlayStation 4.  It is no longer available for download, and its servers were shut down in January 2020.
 
-### Descent {#descent}
+### Ships that Fight Underground {#ships-that-fight-underground}
 #### (Jun 2015 - Apr 2017), Descendent Studios - Windows, Mac OS, Linux
-![Descent key art](/images/DescentAction.jpg "Deep within Charon, a Torch and Predator face off.")
+![Descent Underground key art](/images/DescentAction.jpg "Deep within Charon, a Torch and Predator face off.")
 
-*Descent* (formerly *Descent: Underground*) was a first person shooter where players control drones within asteroids to fight over limited resources needed by a dying Earth taken over by gigacorporations.  Battles are fought in all six degrees of freedom as drones stay alive by dodging incoming projectiles.
+*Ships that Fight Underground* (formerly *Descent: Underground* and *Descent*) is a first person shooter where players control drones within asteroids to fight over limited resources needed by a dying Earth taken over by gigacorporations.  Battles are fought in all six degrees of freedom as drones stay alive by dodging incoming projectiles.
 
-*Descent* was my first professional project and first experience working within Unreal Engine 4.  I was a gameplay programmer on the project, responsible for drawing up design for and implementing such systems as the following:
+*STFU* was my first professional project and first experience working within Unreal Engine 4.  I was a gameplay programmer on the project, responsible for drawing up design for and implementing such systems as the following:
 
 * Environmental interaction
 * Matchmaking web API communication
@@ -119,11 +119,11 @@ I learned a lot about UE4 working on *HotG*, especially regarding UI.  Even thou
 * Player option configuration
 * Client-server communication
 
-*Descent's* game code was interesting in that it was done almost entirely in Blueprint, allowing for extremely rapid iteration, which we felt was especially necessary for such a small team on a crowdfunded budget.  Looking back, however, there were some serious limitations that could have been overcome by moving the codebase to C++ early in development.
+*STFU's* game code was interesting in that it was done almost entirely in Blueprint, allowing for extremely rapid iteration, which we felt was especially necessary for such a small team on a crowdfunded budget.  Looking back, however, there were some serious limitations that could have been overcome by moving the codebase to C++ early in development.
 
 In addition, I was also responsible for supporting the game as a live product, providing minor game design as part of team-wide discussions, supporting design and art integration, and community interaction as part of our open development.
 
-*Descent* was available as a purchased title in Early Access, but has since been delisted.  While development continued after I started working at Hi-Rez, it has since fallen into a legal battle, so it doesn't seem likely the game will ever see the light of day.  *Descent's* online servers and its website shut down some time in 2019.
+Back when it was *Descent: Underground*, the game was available as a purchased title in Early Access.  While development continued after I started working at Hi-Rez, Descendent fell into a lengthy legal battle with the publisher they'd picked up, Little Orbit.  The legal issues halted development and prompted Interplay to withdraw the *Descent* license, which is why the project's name changed.  *STFU*'s original online servers and website shut down some time in 2019.  After the lawsuit was settled, Little Orbit resumed the project with new developers and set up a new separate website.  *STFU* does not currently have a scheduled release date.
 
 [See gameplay from before I left the project here.](https://www.youtube.com/watch?v=MiGZi3fufEA)
 

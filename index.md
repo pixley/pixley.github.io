@@ -12,4 +12,4 @@ I've been playing video games as my primary hobby since I was in first grade, an
 [LinkedIn profile](https://www.linkedin.com/in/pixley)
 
 ## Footnote
-The text of this site (pixley.github.io) is copyright (c) Tyler Pixley 2015-2024.  Images and visual design are copyright of their respective owners.
+The text of this site (pixley.github.io) is copyright (c) Tyler Pixley 2015-2025.  Images and visual design are copyright of their respective owners.
