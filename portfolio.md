@@ -23,11 +23,27 @@
 
 ![Doom: The Dark Ages logo](/images/dark_ages_logo.png "Doom: The Dark Ages Logo")
 
-*Doom: The Dark Ages* is an upcoming sci-fi/fantasy first-person shooter from the genre-defining *Doom* franchise.  A prequel to *Doom (2016)*, *The Dark Ages* explores the Doom Slayer's past, fighting the legions of Hell in a dark fantasy setting.
+*Doom: The Dark Ages* is an upcoming sci-fi/fantasy first-person shooter from the genre-defining *Doom* franchise.  A prequel to *Doom (2016)*, *The Dark Ages* explores the Doom Slayer's past, fighting the legions of Hell in a dark sci-fi/fantasy hybrid setting.  Compared to the prior modern *Doom* titles, *The Dark Ages* is more grounded, less twitchy, and more accessible difficulty-wise, but it retains the intensity, pace, and think-on-your-feet philosophy of its older siblings.
 
-As it is not yet available, I am currently unable to share details of my work on *The Dark Ages*.  The game is currently slated to launch in 2025 on Windows, Xbox Series X\|S, and PlayStation 5.
+I started working at id Software around the start of pre-production on *The Dark Ages*, and, besides a brief break to assist on the Horde Mode in *Doom Eternal*, I worked on *The Dark Ages* through its entire development process.  My major contributions include the following:
 
-See the [world premiere trailer from the 2024 Xbox Games Showcase](https://www.youtube.com/watch?v=4tk8lkmYGWQ).
+* **Note:** *The Dark Ages* was based on the *Eternal* codebase, so refactors and enhancements mentioned are relative to *Eternal*
+* Refactor and maintenance on the player "hands" system, making it easier to extend, benefitting everyone working on Slayer combat systems
+* Update and enhancement to the swimming system
+* Weapon upgrade implementation, especially for the grenade launcher and rocket launcher
+* Implementation of the playable turret, including porting some Slayer-specific functionality
+* Projectile targeting and seeking enhancements, especially regarding multi-targeting
+* Updates to submunition deployment
+* Refactor of the bullet penetration system
+* Updates to loot drops, particularly around difficulty-based resource scaling
+* Enhanced jump/fall/land system, particularly regarding hard-land shockwave
+* Addition of simplified interface to generically handle Slayer, Atlan, Turret, and Dragon in various other gameplay systems
+* Contribution of new nodes for Logic Designer, idTech's visual scripting system
+* Debug visualization, especially for projectiles
+
+*Doom: The Dark Ages* launched on 15 May 2025 simultaneously on Windows, Xbox Series X\|S, and PlayStation 5.
+
+See [*The Dark Ages* launch trailer](https://www.youtube.com/watch?v=S7IEg0_qNXs).
 
 ### Doom: Eternal {#doom-eternal}
 #### (Apr 2021 - Oct 2021), id Software - Windows, Stadia, XB1, XSX\|S, PS4, PS5, Switch
