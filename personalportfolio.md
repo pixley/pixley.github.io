@@ -11,7 +11,11 @@ I have multiple public repositories on [my GitHub profile](https://github.com/pi
 ### Feb 2024 - Present
 [The RPG Sounds Community Patch](https://github.com/pixley/rpgs-community-patch) is a mod for the Unity-based utility [RPG Sounds](https://store.steampowered.com/app/1480140/RPG_Sounds/), a soundboard/audio mixer for use alongside tabletop RPGs.
 
-The RPG Sounds app has not been updated since February 2022, but I still believe in the concept, despite the issues that were never addressed.  As such, I pulled it open using a .NET decompiler and fixed the problems that specifically irritated me.
+The RPG Sounds app has not been updated since February 2022, but I still believe in the concept, despite the issues that were never addressed.  As such, I pulled it open using a .NET decompiler and fixed the problems that specifically irritated me.  In particular, the following changes have been made:
+* Support for M4A and WMA files added via Windows Media Foundation
+* Fixed bug where Unicode characters in an audio file's metadata would cause it to not play correctly
+* Fixed bug where RPG Sounds would not save/load the selected audio output device between sessions
+* Increased scroll speed to a usable rate
 
 The RPG Sounds Community Patch is written in C# and C++.  It can be found both in the previously-linked GitHub repo and on [Nexus Mods](https://www.nexusmods.com/site/mods/1017).
 

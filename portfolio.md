@@ -23,7 +23,7 @@
 
 ![Doom: The Dark Ages logo](/images/dark_ages_logo.png "Doom: The Dark Ages Logo")
 
-*Doom: The Dark Ages* is an upcoming sci-fi/fantasy first-person shooter from the genre-defining *Doom* franchise.  A prequel to *Doom (2016)*, *The Dark Ages* explores the Doom Slayer's past, fighting the legions of Hell in a dark sci-fi/fantasy hybrid setting.  Compared to the prior modern *Doom* titles, *The Dark Ages* is more grounded, less twitchy, and more accessible difficulty-wise, but it retains the intensity, pace, and think-on-your-feet philosophy of its older siblings.
+*Doom: The Dark Ages* is a sci-fi/fantasy first-person shooter from the genre-defining *Doom* franchise.  A prequel to *Doom (2016)*, *The Dark Ages* explores the Doom Slayer's past, fighting the legions of Hell in a dark sci-fi/fantasy hybrid setting.  Compared to the prior modern *Doom* titles, *The Dark Ages* is more grounded, less twitchy, and more accessible difficulty-wise, but it retains the intensity, pace, and think-on-your-feet philosophy of its older siblings.
 
 I started working at id Software around the start of pre-production on *The Dark Ages*, and, besides a brief break to assist on the Horde Mode in *Doom Eternal*, I worked on *The Dark Ages* through its entire development process.  My major contributions include the following:
 
