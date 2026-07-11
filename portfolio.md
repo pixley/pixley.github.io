@@ -19,11 +19,11 @@
 ## Professional Projects
 
 ### Doom: The Dark Ages {#doom-the-dark-ages}
-#### (Apr 2021 - Present), id Software - Windows, XSX\|S, PS5
+#### (Apr 2021 - Jul 2026), id Software - Windows, XSX\|S, PS5
 
 ![Doom: The Dark Ages logo](/images/dark_ages_logo.png "Doom: The Dark Ages Logo")
 
-*Doom: The Dark Ages* is an upcoming sci-fi/fantasy first-person shooter from the genre-defining *Doom* franchise.  A prequel to *Doom (2016)*, *The Dark Ages* explores the Doom Slayer's past, fighting the legions of Hell in a dark sci-fi/fantasy hybrid setting.  Compared to the prior modern *Doom* titles, *The Dark Ages* is more grounded, less twitchy, and more accessible difficulty-wise, but it retains the intensity, pace, and think-on-your-feet philosophy of its older siblings.
+*Doom: The Dark Ages* is a first-person shooter from the genre-defining *Doom* franchise.  A prequel to *Doom (2016)*, *The Dark Ages* explores the Doom Slayer's past, fighting the legions of Hell in a dark sci-fi/fantasy hybrid setting.  Compared to the prior modern *Doom* titles, *The Dark Ages* is more grounded, less twitchy, and more accessible difficulty-wise, but it retains the intensity, pace, and think-on-your-feet philosophy of its older siblings.
 
 I started working at id Software around the start of pre-production on *The Dark Ages*, and, besides a brief break to assist on the Horde Mode in *Doom Eternal*, I worked on *The Dark Ages* through its entire development process.  My major contributions include the following:
 
@@ -41,9 +41,17 @@ I started working at id Software around the start of pre-production on *The Dark
 * Contribution of new nodes for Logic Designer, idTech's visual scripting system
 * Debug visualization, especially for projectiles
 
-*Doom: The Dark Ages* launched on 15 May 2025 simultaneously on Windows, Xbox Series X\|S, and PlayStation 5.
+I also contributed to development on the *Revelations* DLC campaign, including the following:
 
-See [*The Dark Ages* launch trailer](https://www.youtube.com/watch?v=S7IEg0_qNXs).
+* Implementation of the '93 Shotgun power weapon, including the ability to change the active power weapon.
+* Improvements to the bullet penetration system, largely with regard to the '93 Shotgun.
+* Hardening the newly-added ability to use a different (or no) left-hand weapon, particularly in cases related to entering and exiting the swim state.
+
+During the development of *Revelations*, I also contributed to various refactors in service of future id work.
+
+*Doom: The Dark Ages* launched on 15 May 2025 simultaneously on Windows, Xbox Series X\|S, and PlayStation 5.  *Revelations* launched on 7 July 2026 on the same platforms.
+
+See [*The Dark Ages* launch trailer](https://www.youtube.com/watch?v=S7IEg0_qNXs).  See [the *Revelations* reveal trailer](https://www.youtube.com/watch?v=nL_JF1ZNllI).
 
 ### Doom: Eternal {#doom-eternal}
 #### (Apr 2021 - Oct 2021), id Software - Windows, Stadia, XB1, XSX\|S, PS4, PS5, Switch
@@ -82,14 +90,14 @@ I was one of the first people pulled off of *Hand of the Gods* to start the *Rog
 * Contextual ping, a la *Apex Legends*
 * Runtime physics asset merging
 
-*Rogue Company* was launched into open beta on 1 October 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  It was later ported to Xbox Series X\|S and PlayStation 5 (25 Nov 2020 and 30 Mar 2021, respectively).  Support for the Switch version has since been dropped.  You can see more about the game at [the *Rogue Company* website](https://www.roguecompany.com).
+*Rogue Company* was launched into open beta on 1 October 2020 simultaneously on Windows (via Epic Games Store), Xbox One, PlayStation 4, and Nintendo Switch.  It was later ported to Xbox Series X\|S and PlayStation 5 (25 Nov 2020 and 30 Mar 2021, respectively).  Support for the Switch version has since been dropped.  *RoCo* reached its full release version on 8 June 2022, after I left Hi-Rez.  You can see more about the game at [the *Rogue Company* website](https://www.roguecompany.com).
 
-See [the "Rogue Reveal" for Kestrel](https://www.youtube.com/watch?v=IfRdjNr4pzk), the last Rogue I worked on before leaving Hi-Rez.  Kestrel was released as part of the Year 1, Season 1 update.
+See [the "Rogue Reveal" for Kestrel](https://www.youtube.com/watch?v=IfRdjNr4pzk), the last character I worked on before leaving Hi-Rez.  Kestrel was released as part of the Year 1, Season 1 update.
 
 ### Realm Royale {#realm-royale}
 #### (Jun 2018 - Aug 2018), Hi-Rez Studios - Windows, XB1, PS4, Switch
 
-*Realm Royale* is a fantasy third-person battle royale, loosely based on the *Paladins* intellectual property.  Starting life as a game mode within *Paladins*, *Realm Royale* runs on Unreal Engine 3.  My team was briefly brought on to assist the *Realm Royale* team when the game exploded in popularity after it went into open beta in summer 2018.
+*Realm Royale* was a fantasy third-person battle royale, loosely based on the *Paladins* intellectual property.  Starting life as a game mode within *Paladins*, *Realm Royale* ran on Unreal Engine 3.  My team was briefly brought on to assist the *Realm Royale* team when the game exploded in popularity after it went into open beta in summer 2018.
 
 During the six weeks the *RoCo* team and I helped with the project, my major responsibilities were adding a new class, improving console gameplay feel, and minor certification work.
 
@@ -152,7 +160,7 @@ I've squirrelled away my student work onto [a separate page](/studentportfolio).
 ## Technical Experience {#tech-experience}
 
 ### idTech {#idtech}
-Since joining id Software, I have been working inside id's in-house engine, idTech, specifically version 7, which powered *Doom Eternal*, and newer.  Each version of idTech is tailored to the specific game which it powers.
+At id Software, I worked inside id's in-house engine, idTech, specifically version 8, which powered *Doom: The Dark Ages*.  Each version of idTech is tailored to the specific game which it powers.
 
 ### Unreal Engine 4 {#ue4}
 For the first six years of my career, I worked almost exclusively in UE4, and I had a fantastic time operating within that environment.  Both Blueprint and Unreal's spin on C++ are very familiar to me, having done gameplay and UI programming in both.  UE4 provides very powerful tools that make all sorts of games possible.  I've worked on a 6DoF shooter, a card game, and a third-person shooter in UE4, and it works excellently in all of those cases.  I can understand why so many games are hopping on the UE4 wagon, from fighting games like *SoulCalibur 6* to RPGs like the *Final Fantasy VII* remake to massive-scale shooters like *Fortnite* and *PlayerUnknown's Battlegrounds*.
